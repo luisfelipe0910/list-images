@@ -1,0 +1,3 @@
+save-exact = true
+depth = 0
+registry=http://nexus3.b2w.io/repository/npm-group/

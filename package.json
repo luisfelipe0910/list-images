@@ -1,0 +1,19 @@
+{
+  "name": "@luisfelipe0910/list-images",
+  "version": "1.0.0",
+  "description": "Find images in yml files",
+  "main": "./bin/index.js",
+  "bin": {
+    "listImages": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/index.js"
+  },
+  "author": "Felipe Morais",
+  "license": "ISC",
+  "dependencies": {
+    "cli-table": "^0.3.11",
+    "yargs": "^17.4.1"
+  }
+}
